@@ -1,8 +1,3 @@
-# -*- coding: utf-8 -*-
-
-#Stock Price prediction System using Machine Learning
-#By- Saksham Prajapati
-
 # Importing required Libraries
 import pandas as pd
 import numpy as np
